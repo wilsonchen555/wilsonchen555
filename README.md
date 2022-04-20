@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wilsonchen555
 - 👀 I’m interested in Frontend, Backend, IOS development.... you name it!
-- 📫 How to reach me 
+- 📫 How to reach me:
           email: wilson.chen143@gmail.com
-          
           linkedin: https://www.linkedin.com/in/wchen143/
 
 <!---
